@@ -18,4 +18,7 @@ Ele contém apenas variáveis numéricas, que são o resultado de uma transforma
 - Definir quais métricas serão mais importante avaliarmos par esse problema (Recall, por exemplo), e analisar gráficamente outras métricas como Curva ROC e Curva Precisão-Recall
 - Simualar os custos que podemos ter com os diferentes modelos apresentando diferentes resultados de Precisão e Recall como forma de ajudar a escolher qual é o melhor modelo para a aplicação.
 
-- 
+**Ao final do modelo, teremos a seguite Matriz de Confusão, Curva ROC e Curva Precisão-Recall para os 5 modelos testados:**
+
+![Confusion Matrix](Analises_Graficas/Confusion%20Matrix%20-%20Modelos%20Finais.png)
+![Curva ROC e Curva Precisão-Recall](Analises_Graficas/Curva%20ROC%20e%20Precisão-Recall%20-%20Modelos%20Finais.png)
